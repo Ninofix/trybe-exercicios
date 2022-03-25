@@ -1,0 +1,15 @@
+From itamar Wed Mar 23 16:53:17 2022
+Date: Wed, 23 Mar 2022 16:53:17 -0300
+To: itamar
+User-Agent: mail v14.9.23
+
+Subject: editor saved ``as.txt''
+You were editing the file "as.txt"
+at <Wed Mar 23 16:53> on the machine ``itamar-manjaro''
+when the editor was killed.
+
+You can retrieve most of your changes to this file
+using the "recover" command of the editor.
+An easy way to do this is to give the command "vi -r as.txt".
+This method also works using "ex" and "edit".
+

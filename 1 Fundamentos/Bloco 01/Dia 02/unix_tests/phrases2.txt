@@ -1,0 +1,5 @@
+Sem case sensitive
+Valores que não cresppode a busca
+Mostra a linha onde se encontra a busca
+Brazil
+Canada
