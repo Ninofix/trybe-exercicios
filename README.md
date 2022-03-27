@@ -1,11 +1,3 @@
-<div align="center">
-  <a href="https://github.com/ItamarSilvaSoares">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ItamarSilvaSoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-</div>
-  
-  ![Snake animation](https://github.com/ItamarSilvaSoares/github-contribution-grid-snake.svg)
-  
 # Trybe
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Itamar da Silva Saores](#)_ enquanto estudava na [Trybe](https://www.betrybe.com/)  :rocket:
